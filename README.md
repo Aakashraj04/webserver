@@ -65,10 +65,12 @@ httpd.serve_forever()
 ## OUTPUT:
 
  ### Server Output:
-![OUTPUT](./out1.png)
+![out1](https://user-images.githubusercontent.com/121117266/228899059-6ff5249e-ee83-48be-9a2d-7c55f0eb3b97.png)
+
 
 ### Client Output:
-![OUTPUT](./out2.png)
+![out2](https://user-images.githubusercontent.com/121117266/228899124-56a5d452-4d95-49d2-89dc-3f218d05d4fa.png)
+
 
 
 ## RESULT:
